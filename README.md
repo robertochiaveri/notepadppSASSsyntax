@@ -18,9 +18,11 @@ Please note that colors are based on the "Obsidian" theme bundled with Notepad++
 *   go to your Notepad++ folder then to `/plugins/APIs/`
 *   duplicate the `css.xml` and rename this file to `Obsidian_SCSS.xml` 
 
+Another similar project:
+http://www.marvinlabs.com/2012/08/03/scss-syntax-highlighting-for-notepad/
 
 
-
- [1]: http://sass-lang.com
- [2]: http://notepad-plus-plus.org/
- [3]: http://www.marvinlabs.com/2012/08/03/scss-syntax-highlighting-for-notepad/
+ http://sass-lang.com
+ http://notepad-plus-plus.org/
+ 
+ 
