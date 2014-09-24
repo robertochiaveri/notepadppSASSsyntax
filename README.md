@@ -22,7 +22,8 @@ Another similar project:
 http://www.marvinlabs.com/2012/08/03/scss-syntax-highlighting-for-notepad/
 
 
- http://sass-lang.com
- http://notepad-plus-plus.org/
+## Other resources
+* http://sass-lang.com
+* http://notepad-plus-plus.org/
  
  
