@@ -1,7 +1,9 @@
 SASS Syntax Highlighting XML for Notepad++ (Obsidian theme) 
 ===============================================
 
-There are a lot of capable editors that support SCSS natively around, but if you'd like to stick to Notepad++, here's a custom syntax highlighting config XML file for you.
+There are a lot of much more capable editors that support SCSS natively around, but if you really stuck using Notepad++, here's a custom syntax highlighting config XML file for you.
+
+...my suggestion, anyway, is to check out SublimeText and Atom ;)
 
 Please note that colors are based on the "Obsidian" theme bundled with Notepad++. 
 
